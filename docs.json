@@ -26,7 +26,6 @@
               "minecraft-rpg/classes",
               "minecraft-rpg/dungeons",
               "minecraft-rpg/items-resources",
-              "minecraft-rpg/recipes",
               "minecraft-rpg/events",
               "minecraft-rpg/rules"
             ]
